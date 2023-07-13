@@ -5,4 +5,4 @@ b=15
 c=a+b
 printf(the value of %d,c)
 
-print (manoj)
+print (manoj) j,sdjkshdiouidsf
